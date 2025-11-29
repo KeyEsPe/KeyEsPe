@@ -1,10 +1,8 @@
 <!-- HEADER -->
 <div align="center">
 
-  <img src="https://img.shields.io/badge/AI%20with%20Katarzyn-Burgundy-4A0C26?style=for-the-badge" alt="AI with Katarzyn" />
-
   <h1>Hi, I'm Katarzyn 👋</h1>
-  <h3>AI • Compliance • Ethical Tech • Automation</h3>
+  <h3>AI • Compliance • Ethical Tech • Pharma Operations</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Location-Netherlands-4A0C26?style=flat-square" />
@@ -16,19 +14,19 @@
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 
-Hi! I'm **Katarzyn** — transitioning from the pharmaceutical industry into  
-**AI, compliance, automation, and ethical tech consulting**.
+Hi! I'm **Katarzyna** — transitioning from the pharmaceutical industry into  
+**AI, compliance, and ethical tech consulting**.
 
 I combine:
 
-- several years of experience as a **Production Supervisor** in pharma  
+- several years of experience as a **Production Supervisor** in Pharma  
 - with growing expertise in  
-  **AI governance, AI Act, ISO 42001, ML fundamentals, automation, and prompt engineering**
+  **AI governance, AI Act, ISO 42001, ML fundamentals, automation, Python and prompt engineering**
 
 My goal?  
-To build **practical, ethical, real-world AI solutions** that help people and businesses work smarter — not harder.
+To build **practical, ethical, real-world AI solutions and share knowledge** that help people and businesses work smarter — not harder.
 
 ---
 
@@ -50,7 +48,7 @@ To build **practical, ethical, real-world AI solutions** that help people and bu
   Jupyter workflows, scripts, data handling, good coding practices.
 
 - 📚 Deepening my knowledge in  
-  **AI Act • ISO 42001 • governance • responsible AI**
+  **AI Act • ISO 42001 • governance • responsible AI • machine learning**
 
 ---
 
@@ -61,20 +59,6 @@ To build **practical, ethical, real-world AI solutions** that help people and bu
 
 **AI / ML & Governance**  
 `Prompt Engineering` · `LLM Evaluation` · `AI Act` · `ISO 42001` · `GenAI tools`
-
----
-
-## 📂 Featured Repositories
-
-### 🔍 LLM_Evaluation_Project
-Multi-model evaluation focusing on hallucinations, reasoning, safety, bias, and consistency.  
-A practical comparison of different LLMs across realistic tasks.
-
-### 🧠 python_learning
-My exercises, experiments, and notes from learning Python step-by-step.
-
-### 📝 exercism_solutions
-Small, consistent exercises from Exercism — tracking my progress with Python fundamentals.
 
 ---
 
@@ -95,5 +79,5 @@ Small, consistent exercises from Exercism — tracking my progress with Python f
 ---
 
 <div align="center">
-  <sub>Minimalist • Burgundy • AI-driven ✨</sub>
+  <sub>Pharma roots • AI mindset • Continuous learning ⭐</sub>
 </div>
