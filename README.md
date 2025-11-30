@@ -5,13 +5,7 @@
 
 <div align="center">
 
-  <h3>AI • Compliance • Ethical Tech • Pharma Operations</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/Location-Netherlands-4A0C26?style=flat-square" />
-    <img src="https://img.shields.io/badge/Learning-Python%20%26%20AI-661A33?style=flat-square" />
-    <img src="https://img.shields.io/badge/Background-Pharma%20Supervisor-C4BCB6?style=flat-square" />
-  </p>
+  <h3>AI • Compliance • Aligment • Pharma Background </h3>
 
 </div>
 
@@ -35,7 +29,7 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
 
 ## 🚀 What I'm Working On
 
-- 🔍 **LLM Evaluation Project**  
+- 🧠 **LLM Evaluation Project**  
   Assessing multiple LLMs (OpenAI, Google, Anthropic) across:
   - hallucinations  
   - reasoning  
@@ -43,14 +37,14 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
   - consistency & reliability  
   - ethical & compliance risks  
 
-- 🤖 **Personal Learning AI Assistant**  
+- 🧭 **Personal Learning AI Assistant**  
   Python + n8n + Notion  
   → automates tracking courses, skills, notes, and study progress.
 
 - 🐍 **Strengthening Python foundations**  
   Jupyter workflows, scripts, data handling, good coding practices.
 
-- 📚 Deepening my knowledge in  
+- 📖 Deepening my knowledge in  
   **AI Act • ISO 42001 • governance • responsible AI • machine learning**
 
 ---
@@ -65,7 +59,7 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
 
 ---
 
-## 🌐 Find Me Online
+## 🔗 Find Me Online
 
 <div align="center">
 
