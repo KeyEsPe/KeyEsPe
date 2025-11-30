@@ -76,5 +76,5 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
 ---
 
 <div align="center">
-  <sub>Pharma roots • AI mindset • Continuous learning ⭐</sub>
+  <sub>Pharma roots • AI mindset • Continuous learning 💫</sub>
 </div>
