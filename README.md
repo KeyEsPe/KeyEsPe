@@ -1,7 +1,10 @@
 <!-- HEADER -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/KeyEsPe/KeyEsPe/main/assets/banner.png" alt="AI with Katarzyn Banner" />
+</div>
 
-  <h1>Hi, I'm Katarzyn 👋</h1>
+<div align="center">
+
   <h3>AI • Compliance • Ethical Tech • Pharma Operations</h3>
 
   <p>
