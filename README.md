@@ -49,7 +49,7 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
 
 ---
 
-## 👉 Tech & Tools
+## ✨ Tech & Tools
 
 **Languages & Tools**  
 `Python` · `Git & GitHub` · `Jupyter` · `Bash` · `n8n` · `Notion automations`
@@ -59,7 +59,7 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
 
 ---
 
-## 🌛 Find Me Online
+## 🪄 Find Me Online
 
 <div align="center">
 
