@@ -29,7 +29,7 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
 
 ## 🪄 What I'm Working On
 
-- 💡 **LLM Evaluation Project**  
+- 🌜 **LLM Evaluation Project**  
   Assessing multiple LLMs (OpenAI, Google, Anthropic) across:
   - hallucinations  
   - reasoning  
@@ -41,10 +41,10 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
   Python + n8n + Notion  
   → automates tracking courses, skills, notes, and study progress.
 
-- 💪 **Strengthening Python foundations**  
+- 🌜 **Strengthening Python foundations**  
   Jupyter workflows, scripts, data handling, good coding practices.
 
-- 🏆 Deepening my knowledge in  
+- ⭐ Deepening my knowledge in  
   **AI Act • ISO 42001 • governance • responsible AI • machine learning**
 
 ---
