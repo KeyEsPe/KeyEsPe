@@ -27,7 +27,7 @@ To build **practical, ethical, real-world AI solutions and share knowledge** tha
 
 ---
 
-## 📁 What I'm Working On
+## 🪄 What I'm Working On
 
 - 💡 **LLM Evaluation Project**  
   Assessing multiple LLMs (OpenAI, Google, Anthropic) across:
