@@ -36,14 +36,14 @@ I focus on practical AI — useful in the real world, not just impressive in dem
 
 ## ✨ Domains & Practice
 
-**AI & Governance**
-AI Act · ISO 42001 · Responsible AI · LLM Evaluation · Alignment & Risk Thinking
+**AI & Governance**  
+`AI Act` · `ISO 42001` · `Responsible AI` · `LLM Evaluation` · `Alignment & Risk Thinking`
 
-**Pharma & Regulated Environments**
-cGMP · Quality Systems · Documentation & Traceability · Regulatory Mindset
+**Pharma & Regulated Environments**  
+`cGMP` · `Quality Systems` · `Documentation & Traceability` · `Regulatory Mindset`
 
-**Tools & Workflow**
-Python · GitHub · Jupyter · n8n · Notion
+**Tools & Workflow**  
+`Python` · `GitHub` · `Jupyter` · `n8n` · `Notion`
 
 ---
 
