@@ -13,49 +13,37 @@
 
 ## ✨ About Me
 
-Hi! I'm **Katarzyna** — transitioning from the pharmaceutical industry into  
-**AI, compliance, and ethical tech consulting**.
+Hi! I'm **Katarzyna**.
 
-I combine:
+I combine **pharmaceutical operations experience** with
+**AI governance, model evaluation, and responsible AI practice**.
 
-- several years of experience as a **Production Supervisor** in Pharma  
-- with growing expertise in  
-  **AI governance, AI Act, ISO 42001, ML fundamentals, automation, Python and prompt engineering**
+Background in regulated environments (GMP, quality, compliance)  
+→ now applied to **AI systems that must be reliable, ethical, and compliant**.
 
-My goal?  
-To build **practical, ethical, real-world AI solutions and share knowledge** that help people and businesses work smarter — not harder.
+I focus on practical AI — useful in the real world, not just impressive in demos.
 
 ---
 
 ## 🪄 What I'm Working On
 
-- **LLM Evaluation Project**  
-  Assessing multiple LLMs (OpenAI, Google, Anthropic) across:
-  - hallucinations  
-  - reasoning  
-  - safety & bias  
-  - consistency & reliability  
-  - ethical & compliance risks  
-
-- **Personal Learning AI Assistant**  
-  Python + n8n + Notion  
-  → automates tracking courses, skills, notes, and study progress.
-
-- **Strengthening Python foundations**  
-  Jupyter workflows, scripts, data handling, good coding practices.
-
-- Deepening my knowledge in  
-  **AI Act • ISO 42001 • governance • responsible AI • machine learning**
+- AI governance & compliance analysis  
+- LLM evaluation & alignment-focused testing  
+- Responsible AI & AI Act–oriented thinking  
+- Bridging pharma quality mindset with AI systems
 
 ---
 
-## ✨ Tech & Tools
+## ✨ Domains & Practice
 
-**Languages & Tools**  
-`Python` · `Git & GitHub` · `Jupyter` · `Bash` · `n8n` · `Notion automations`
+**AI & Governance**
+AI Act · ISO 42001 · Responsible AI · LLM Evaluation · Alignment & Risk Thinking
 
-**AI / ML & Governance**  
-`Prompt Engineering` · `LLM Evaluation` · `AI Act` · `ISO 42001` · `GenAI tools`
+**Pharma & Regulated Environments**
+cGMP · Quality Systems · Documentation & Traceability · Regulatory Mindset
+
+**Tools & Workflow**
+Python · GitHub · Jupyter · n8n · Notion
 
 ---
 
